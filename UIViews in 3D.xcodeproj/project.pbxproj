@@ -22,6 +22,7 @@
 		8C21DB6D21DC3795007051F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8C21DB7021DC3795007051F5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8C21DB7221DC3795007051F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8C21DB7821DC38F3007051F5 /* Notes.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Notes.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				8C21DB6D21DC3795007051F5 /* Assets.xcassets */,
 				8C21DB6F21DC3795007051F5 /* LaunchScreen.storyboard */,
 				8C21DB7221DC3795007051F5 /* Info.plist */,
+				8C21DB7821DC38F3007051F5 /* Notes.md */,
 			);
 			path = "UIViews in 3D";
 			sourceTree = "<group>";
